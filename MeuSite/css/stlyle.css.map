@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAQA,MAAM;EAEF,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,KAAU;EAC1B,UAAU,EAAE,2DACZ",
+"sources": ["stlyle.scss"],
+"names": [],
+"file": "stlyle.css"
+}
