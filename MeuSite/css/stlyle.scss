@@ -5,12 +5,30 @@ $clear:  #332F2F;
 $font1: tahoma, Arial;
 $font2: Arial, Verdana;
 $site: 18px;
+$epicplay: #FEE128;
 
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
 header{  
-
+    height: 85px;
+    margin: 0px;
     width: 100%;
     background: rgb(0,0,0);
-background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(114,114,114,1) 54%, rgba(51,47,47,1) 100%)
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(114,114,114,1) 54%, rgba(51,47,47,1) 100%);
+display: flex;
+align-items: center;
+padding-left: 10px;
+
+h1{
+    padding: 0px;
+    margin: 0px;
+    color: $epicplay ;
+    
+
+}
 }
 
 

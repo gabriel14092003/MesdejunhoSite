@@ -1,6 +1,19 @@
+body {
+  margin: 0px;
+  padding: 0px; }
+
 header {
+  height: 85px;
+  margin: 0px;
   width: 100%;
   background: black;
-  background: linear-gradient(90deg, black 0%, #727272 54%, #332f2f 100%); }
+  background: linear-gradient(90deg, black 0%, #727272 54%, #332f2f 100%);
+  display: flex;
+  align-items: center;
+  padding-left: 10px; }
+  header h1 {
+    padding: 0px;
+    margin: 0px;
+    color: #FEE128; }
 
 /*# sourceMappingURL=stlyle.css.map */
